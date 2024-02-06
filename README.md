@@ -6,7 +6,7 @@
 📫 You can hit me up through the following:
 -   EMAIL: napa.john.cedrick@gmail.com
 -   LinkedIn: [John Cedrick Napa](https://www.linkedin.com/in/cedricknapa-613/)
-\
+
 
 Portfolio in on other sites:
 - Tableau: [Tableau Profile](https://public.tableau.com/app/profile/john.cedrick.napa/)
