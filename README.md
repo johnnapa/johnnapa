@@ -1,8 +1,9 @@
 👋 Hi, I’m John Cedrick Napa\
 😄 Pronouns: He/Him\
 \
-👀 I’m interested in Data Analysis and Engineering\
-🌱 I’m currently learning key skills in Data Science such as Python and R Progmramming, SQL queries, Cloud Computing, Statistical Analysis\
+I’m interested in Data Analysis and Engineering\
+I have acquired key skills in Data Science and Analystics such as Data Manipulation and Data Visualization and Modeling\
+I have technical skill using SQL, Python, R, Spreadsheets, and Tableau\
 📫 You can hit me up through the following:
 -   EMAIL: napa.john.cedrick@gmail.com
 -   LinkedIn: [John Cedrick Napa](https://www.linkedin.com/in/cedricknapa-613/)
