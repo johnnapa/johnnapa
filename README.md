@@ -10,6 +10,7 @@ I have technical skill using SQL, Python, R, Spreadsheets, and Tableau\
 
 
 Portfolio in on other sites:
+- Personal website: [John Cedrick Napa](https://johnnapa.github.io/)
 - Tableau: [Tableau Profile](https://public.tableau.com/app/profile/john.cedrick.napa/)
 - Kaggle: [Kaggle Profile](https://www.kaggle.com/cedricknapa)
 
